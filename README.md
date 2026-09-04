@@ -1,2 +1,4 @@
-# csci-473-files
-Fundamentals of Machine Learning Files
+# CSCI-UA 473 Files
+
+## Folders
+1. [**Lab 1**](Lab1)
